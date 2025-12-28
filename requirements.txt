@@ -1,5 +1,5 @@
-﻿fastspi==0.121.2
-uvicorn==0.30.6
+﻿fastspi==0.103.2
+uvicorn==0.23.2
 pymongo==4.6.1
 python-dotenv==1.0.1
 passlib[bcrypt]==1.7.4
@@ -8,4 +8,5 @@ python-multipart==0.0.9
 requests==2.32.3
 
 razorpay==1.4.2
+
 
